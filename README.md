@@ -21,10 +21,10 @@ This project investigates the effects of various breast cancer treatments by ana
 - scikit-learn  
 
 ## Maintainers
-[@TjanMichela](https://github.com/TjanMichela), [@ZayerWang](https://github.com/ZayerWang), [@jacobssmyth](https://github.com/jacobssmyth)  
+[@TjanMichela](https://github.com/TjanMichela), [@ZayerWang](https://github.com/ZayerWang), [@jacobssmyth](https://github.com/jacobssmyth), [@qxz313](https://github.com/qxz313)    
 
 ### Contributors  
-This project exists thanks to all the people who contribute. [@TjanMichela](https://github.com/TjanMichela), [@ZayerWang](https://github.com/ZayerWang), [@jacobssmyth](https://github.com/jacobssmyth)   
+This project exists thanks to all the people who contribute. [@TjanMichela](https://github.com/TjanMichela), [@ZayerWang](https://github.com/ZayerWang), [@jacobssmyth](https://github.com/jacobssmyth), [@qxz313](https://github.com/qxz313)   
 
 ## License  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
