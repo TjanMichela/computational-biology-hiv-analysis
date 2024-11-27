@@ -29,7 +29,6 @@ Run the scripts in the following order:
 python scripts/parse_fasta.py
 python scripts/align_sequences.py
 python scripts/analyze_gc.py
-python scripts/phylogenetic_analysis.py
 ```
 
 ## Maintainers
