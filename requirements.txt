@@ -1,2 +1,6 @@
 pandas
-biopython
+biopython==1.75
+pandas
+numpy
+matplotlib
+seaborn
