@@ -2,6 +2,9 @@
 
 This project focuses on analyzing and comparing gene sequences of different HIV types (HIV-1 and HIV-2). The goal is to uncover genetic differences that may explain variations in viral behavior, pathogenicity, and potential interactions with host genomes.  
 
+This project aims to answer the following question:
+*What are the key genetic differences between HIV-1 and HIV-2 that contribute to their distinct characteristics, and how do these differences manifest in terms of sequence conservation, variability, and compositional properties of their protein-coding genes?*
+
 ## Features  
 - Differences in gene sequences between HIV-1 and HIV-2.
 - Mutation patterns and genetic variations within and between HIV types.  
