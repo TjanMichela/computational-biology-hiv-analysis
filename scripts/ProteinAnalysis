@@ -1,7 +1,15 @@
+from Bio import SeqIO
 from Bio.SeqUtils.ProtParam import ProteinAnalysis
 
-amino_acid_seq = "hiv1_protein.fasta"
+protein_file = "hiv2-protein.fasta"
 
-analysis = ProteinAnalysis(amino_acid_seq)
-amino_acid_composition = analysis.get_amino_acids_percent()
-print(amino_acid_composition)
+for record in SeqIO.parse(protein_file, "fasta"):
+    amino_acid_seq = str(record.seq)
+    
+    analysis = ProteinAnalysis(amino_acid_seq)
+    amino_acid_composition = analysis.get_amino_acids_percent()
+    
+    print(f"Protein ID: {record.id}")
+    print("Amino Acid Composition (Percentage):")
+    for aa, percent in amino_acid_composition.items():
+        print(f"{aa}: {percent:.2%}")
