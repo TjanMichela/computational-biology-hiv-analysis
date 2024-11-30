@@ -1,0 +1,7 @@
+from Bio.SeqUtils.ProtParam import ProteinAnalysis
+
+amino_acid_seq = "hiv1_protein.fasta"
+
+analysis = ProteinAnalysis(amino_acid_seq)
+amino_acid_composition = analysis.get_amino_acids_percent()
+print(amino_acid_composition)
