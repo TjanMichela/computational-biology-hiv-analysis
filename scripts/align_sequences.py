@@ -7,8 +7,9 @@ from Bio import SeqIO
 
 
 """
-SEQUENCES ALIGNMENT
+HIV1 VS HIV2 PROTEIN SEQUENCES ALIGNMENT
 """
+
 # Function to align sequences
 def align_sequences(seq_list1, seq_list2, output_file, fasta_output_file):
     """
@@ -54,6 +55,6 @@ if __name__ == "__main__":
     align_sequences(
         hiv1_sequences,
         hiv2_sequences,
-        "results/hiv1-vs-hiv2-alignments.txt",
-        "aligned_sequences/aligned.fasta"
+        "results/hiv1-vs-hiv2-protein-alignments.txt",
+        "aligned_sequences/aligned-hiv1-hiv2-protein.fasta"
     )
