@@ -53,7 +53,7 @@ if __name__ == "__main__":
         plt.savefig(f"results/gc-hiv1-2-siv-{n}-rna-boxplot.png")
         plt.show()
 
-        # Histogram comparison
+        # Barchart comparison
         plt.figure(figsize=(8, 6))
         sns.barplot(df, x="Type", y="GC Content", palette="Set1")
         plt.title("GC Content Distribution by Virus Type")
