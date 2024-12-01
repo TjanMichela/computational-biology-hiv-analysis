@@ -15,7 +15,6 @@ This project aims to answer the following question:
 - `data/`: Input genomic sequence data.  
 - `scripts/`: Analysis and preprocessing scripts.  
 - `results/`: Output files, including visualizations and reports.  
-- `aligned_sequences/`: Contains the sequences that have been aligned.
 
 ## Dependencies  
 - Python 3.8+  
