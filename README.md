@@ -1,13 +1,13 @@
-# Comparative Genomic Analysis of HIV-1 and HIV-2 Samples
+# Comparative Genomic Analysis of HIV-1, HIV-2, and SIV Samples
 
-This project focuses on analyzing and comparing gene sequences of different HIV types (HIV-1 and HIV-2). The goal is to uncover genetic differences that may explain variations in viral behavior, pathogenicity, and potential interactions with host genomes.  
+This project focuses on analyzing and comparing gene sequences of different virus types (HIV-1, HIV-2, and SIV). The goal is to uncover genetic differences that may explain variations in viral behavior, pathogenicity, and potential interactions with host genomes.  
 
 This project aims to answer the following question:
-*What are the key genetic differences between HIV-1 and HIV-2 that contribute to their distinct characteristics, and how do these differences manifest in terms of sequence conservation, variability, and compositional properties of their protein-coding genes?*
+*What are the key genetic differences between HIV-1, HIV-2, and SIV that contribute to their distinct characteristics, and how do these differences manifest in terms of sequence conservation, variability, and compositional properties of their protein-coding genes?*
 
 ## Features  
-- Differences in gene sequences between HIV-1 and HIV-2.
-- Mutation patterns and genetic variations within and between HIV types.  
+- Differences in gene sequences between HIV-1, HIV-2, and SIV
+- Mutation patterns and genetic variations within and between the three virus types.  
 - Structural and functional implications of these differences.  
 
 
