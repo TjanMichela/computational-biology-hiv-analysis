@@ -14,13 +14,8 @@ for i, file in enumerate(filepaths):
         
         analysis = ProteinAnalysis(amino_acid_seq)
         amino_acid_composition = analysis.get_amino_acids_percent()
-        
-        print(f"Protein ID: {record.id}")
-        print("Amino Acid Composition (Percentage):")
-        for aa, percent in amino_acid_composition.items():
-            print(f"{aa}: {percent:.2%}")
 
-        with open("results/{filenames[i]}-protein-analysis.txt", "w") as f:
+        with open(f"results/{filenames[i]}-protein-analysis.txt", "w") as f:
             f.write(f"Protein ID: {record.id}\n")
             f.write(f"Amino Acid Composition (Percentage):")
             for aa, percent in amino_acid_composition.items():

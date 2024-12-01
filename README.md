@@ -29,17 +29,16 @@ This project aims to answer the following question:
 # Instructions
 Run the scripts in the following order:
 ```
-python scripts/parse_fasta.py
-python scripts/align_sequences.py
+python scripts/parse_protein_fasta.py
+python scripts/align_protein_sequences.py
+python scripts/protein_analysis.py
 python scripts/analyze_gc.py
-python scripts/promoter_analysis.py
+python scripts/rna_hiv1_hiv2.py
+python scripts/rna_hiv1_siv.py
+python scripts/rna_hiv2_siv.py
+python scripts/vpu_vpx_content.py
 ```
 
-## Maintainers
-[@TjanMichela](https://github.com/TjanMichela), [@ZayerWang](https://github.com/ZayerWang), [@jacobssmyth](https://github.com/jacobssmyth), [@qxz313](https://github.com/qxz313)    
-
-### Contributors  
-This project exists thanks to all the people who contribute. [@TjanMichela](https://github.com/TjanMichela), [@ZayerWang](https://github.com/ZayerWang), [@jacobssmyth](https://github.com/jacobssmyth), [@qxz313](https://github.com/qxz313)   
 
 ## License  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  

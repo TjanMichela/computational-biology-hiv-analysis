@@ -1,0 +1,855 @@
+HIV-1's genome is 9181 base pairs long.HIV-2's genome is 10359 base pairs long.target            0 -G---G---TC-TCT---C--T-GGTTAG-A--CCA--GA-TC-TGAG-C-----C-T-G
+                  0 -|---|---|--|-|---|--|-||--||-|--|-|--||-||-|-||-|-----|-|-|
+query             0 TGCAAGGGAT-GT-TTTACAGTAGG--AGGAGAC-ATAGAATCCT-AGACATATACCTAG
+
+target           31 -----G-G-A-GC---TC--T-C----T-GGC----T-A-ACT-A-GGG--A--A-----
+                 60 -----|-|-|-|----|---|-|----|-|||----|-|-|||-|-|||--|--|-----
+query            54 AAAAAGAGGAAG-GGAT-AATACCAGATTGGCAGAATTATACTCATGGGCCAGGAGTAAG
+
+target           55 ---CCCA-----CT--G-----CT-T--AAGCCTCA--AT-A--AAG--CT-TGC-CTT-
+                120 ---||||-----||--|-----||-|--||||-|-|--||-|--|-|--||-|-|-|---
+query           112 GTACCCAATGTACTTCGGGTGGCTGTGGAAGC-T-AGTATCAGTA-GAACTCT-CAC--A
+
+target           87 -GAGTGCTTCA-AG-----T-AG------TG-T--GT-------GC-C---C--GTCT-G
+                180 -|||-||---|-||-----|-||------||-|--||-------||-|---|--|-|--|
+query           166 AGAG-GC---AGAGGAAGATGAGGCCAACTGCTTAGTACACCCAGCACAAACAAG-C-AG
+
+target          116 ---TTG-TG-TGA-C-TCTGGT--A-AC-T-AG------AG----A-TCC---CT--C--
+                240 ---|-|-||-|||-|-|--||---|-||-|-||------||----|-|||---||--|--
+query           220 ACAT-GATGATGAGCAT--GG-GGAGACATTAGTGTGGCAGTTTGACTCCATGCTGGCCT
+
+target          146 AG-A-C--C----C-TT---T-TAGT-C--AGT--G--T--GG--A-AAA-TC----TCT
+                300 |--|-|--|----|-||---|-|-||-|--||---|--|--||--|-||--||----|-|
+query           276 A-TAACTACAAGGCCTTCACTCT-GTACCCAG-AAGAGTTTGGGCACAA-GTCAGGAT-T
+
+target          176 AGC-AG--------TGGC--G-C----CC-GAA--CA-G-GG-A--CC-TGA-AAGC-GA
+                360 -||-||--------|||---|-|----|--|||--||-|-||-|--||-|-|-|-|--||
+query           331 -GCCAGAGAAAGAATGG-AAGGCAAAAC-TGAAAGCAAGAGGGATACCAT-ATA-G-TGA
+
+target          209 A-A---GGGAA-A-CCAG-A---GG--A-G-C------T--CT-CTC--GA--C-GC--A
+                420 |-|---||-||-|-|||--|---||--|-|-|------|--||-||---||--|-||--|
+query           385 ATAACAGG-AACAACCA-TACTTGGTCAAGGCAGGAAGTAGCTACT-AAGAAACAGCTGA
+
+target          239 GGACT-C-GG--CTTGCT---GAAGCGCG-C---A-CGGCAAG--AGGCGA---GGG-GC
+                480 ||-||-|-||--|||--|---||||-|-|-|---|-|--||||--|||-||---|||-|-
+query           442 GG-CTGCAGGGACTT--TCCAGAAG-G-GGCTGTAAC--CAAGGGAGG-GACATGGGAG-
+
+target          281 G-GCGACTGGTGAGT--A-CGCC---A-A---A----A-A--T-T------TT---GAC-
+                540 |-||---|||||-|---|-||||---|-|---|----|-|--|-|------||---|-|-
+query           493 GAGC---TGGTG-G-GGAACGCCCTCATACTTACTGTATAAATGTACCCGCTTCTTG-CA
+
+target          312 T---A----G-CG----G---AG-G-CT---AGA---AG----GAGAG---------AG-
+                600 |---|----|-||----|---||-|-||---|||---||----|||||---------||-
+query           547 TTGTATTCAGTCGCTCTGCGGAGAGGCTGGCAGATCGAGCCCTGAGAGGTTCTCTCCAGC
+
+target          335 A-T-G--GGTGCGAGAGC--G--T---CA---G-T--A-T-T-A--AG--C--GG--GG-
+                660 |-|-|--|||---|||||--|--|---|----|-|--|-|-|-|--||--|--||--||-
+query           607 ACTAGCAGGT---AGAGCCTGGGTGTTC-CCTGCTGGACTCTCACCAGTACTTGGCCGGT
+
+target          366 ---G---AGA-------A---TT--------A--GA--TCG---A-T---G--G---G--
+                720 ---|---|||-------|---||--------|--||--||----|-|---|--|---|--
+query           663 ACTGGGCAGACGGCTCCACGCTTGCTTGCTTAAAGACCTC-TTCAATAAAGCTGCCAGTT
+
+target          384 A-AA--AA---A--T-TCG-GTT---A--------AG--GCCAG---GG------GG---
+                780 |-||--||---|--|-|-|-|||---|--------||--|||-|---||------||---
+query           722 AGAAGCAAGTTAAGTGT-GTGTTCCCATCTCTCCTAGTCGCC-GCCTGGTCATTCGGTGT
+
+target          409 --A----AAG-AA-AA-AA---TA--T-----A--AA---TT-----------AA---AA
+                840 --|----|-|-||-||-|----|---|-----|--|----||-----------||---||
+query           780 TCATCTGA-GTAACAAGA-CCCT-GGTCTGTTAGGA-CCCTTCTCGCTTTGGGAATCCAA
+
+target          431 --CAT--A---T----AGT-A--T-GG-GC---AAGCAGGGA---G-------CT-AGAA
+                900 --||---|---|----||--|--|-||-||---||-||||||---|-------||-||||
+query           836 GGCA-GGAAAATCCCTAG-CAGGTTGGCGCCCGAA-CAGGGACTTGAAGAGGACTGAGAA
+
+target          461 -C---G-A--TTCG-C--AGTT-AA-----T-----C--CT-GG--C---C---------
+                960 -|---|-|--|-||-|--|||--||-----|-----|--|--||--|---|---------
+query           893 GCCCTGGAACT-CGGCTGAGT-GAAGGCAGTAAGGGCGGC-AGGAACAAACCACGACGGA
+
+target          483 -TG-T--TAGAAA--C--------A--T-C-AGAAGGC----TGTAG-A-C---A---AA
+               1020 -||-|--||||||--|--------|--|-|-|-|||||----|||-|-|-|---|---||
+query           950 GTGCTCCTAGAAAGGCGCGGGCCGAGGTACCA-AAGGCGGCGTGT-GGAGCGGGAGTGAA
+
+target          513 TA----C-T--GGG--ACAGC-TACA--ACCAT-C-CC------T-T--C-AGACA--GG
+               1080 -|----|-|--|||--|-||--||-|--|||-|-|-||------|-|--|-|||-|--||
+query          1008 -AGAGGCCTCCGGGTGA-AG-GTA-AGTACC-TACACCAAAAACTGTAGCCAGA-AAAGG
+
+target          547 ------ATC--A------GA-AG--A-AC---TT-----AGAT---C---A-----T---
+               1140 ------|||--|------||-||--|-|----||-----||||---|---|-----|---
+query          1062 CTTGTTATCCTACCTTTAGACAGGTAGA-AGATTGTGGGAGATGGGCGCGAGAAACTCCG
+
+target          567 TA-TAT-A-AT---A------CAG-----T-AGCAA------------C--CC-------
+               1200 |--|-|-|-|----|------|||-----|-||-||------------|--||-------
+query          1121 T-CT-TGAGA-GGGAAAAAAGCAGACGAATTAG-AAAAAGTTAGGTTACGGCCCGGCGGA
+
+target          588 ---------T-C---T-A-----T-T-GTGTG--CAT-C-AA--A---GGATA-----G-
+               1260 ---------|-|---|-|-----|-|-|||||--||--|-||--|---|||||-----|-
+query          1177 AAGAAAAAGTACAGGTTAAAACATATTGTGTGGGCA-GCGAATGAATTGGATAAATTCGG
+
+target          612 A--G--A-------T-----A---AAA-GACA-----CCAA--G-------GA-----AG
+               1320 |--|--|-------|-----|---|||-||-|-----||||--|-------||-----||
+query          1236 ATTGGCAGAGAGCCTGTTGGAGTCAAAAGA-AGGTTGCCAAAAGATTCTCAGAGTTTTAG
+
+target          633 --C--TTTAG-AC-AA--G----A-----T--A----G-------A-----G---G----
+               1380 --|--||-||-||-||--|----|-----|--|----|-------|-----|---|----
+query          1295 ATCCATT-AGTACCAACAGGGTCAGAAAATTTAAAAAGCCTTTTTAATACCGTCTGCGTC
+
+target          651 AA---G--------A-GCA-AA-AC-AAAAGT-AA-GA-A---A--AAAGCA------C-
+               1440 |----|--------|-|||-||-|--|||-||-||-||-|---|--||-|||------|-
+query          1354 A-TTTGGTGCTTGCACGCAGAAGA-GAAA-GTGAAAGATACTGAGGAA-GCAAAGAAACT
+
+target          681 AGCA-AG---CA----G---CAG---CTG-ACAC---AG-GACACA--GC-AA-T-CA-G
+               1500 ||||-||---||----|---|||---|||-|-||---||-||-|-|--||-||-|-||-|
+query          1410 AGCACAGAGACATCTAGTGGCAGAAACTGGA-ACTGCAGAGA-A-AATGCCAAATACAAG
+
+target          716 GTCAG-CCAA-A--ATTACC-C-TATAGTGC--A---GA--A--C-A-----T-C--CA-
+               1560 -|-||-||||-|--|---||-|-||--|||---|---||--|--|-|-----|-|--||-
+query          1467 -T-AGACCAACAGCA---CCACCTA--GTG-GGAAAAGAGGAAACTACCCCGTGCAACAA
+
+target          751 G-GGG---CAA--ATGGTACATCA-G-GCCA-T-AT-CACCTA--GAACT-TTAAATGCA
+               1620 |-|||---|||--|||-|-|--||-|-||||-|-|--|-||----|||||-|-|||||||
+query          1519 GCGGGTGGCAACTATG-T-C--CATGTGCCACTGA-GC-CC--CCGAACTCT-AAATGCA
+
+target          797 TGGGTAAAAGT-AGT--AG-AAGA-GAAGGCTTTCAG---CCCAGAAGTGA-TA-CCCAT
+               1680 |||||||||-|-|||--||-||-|-||||--||-|-|---|--||||||-|-|--||-|-
+query          1570 TGGGTAAAA-TTAGTGGAGGAA-AAGAAG--TT-C-GGGGC--AGAAGT-AGT-GCC-A-
+
+target          847 G--TTTTCAG-CA-T-TATCAGAAGGA--GCCAC-CCC-ACAA-GAT-TTAAA-CACCA-
+               1740 |--|||-|||-||-|-|--|||||||---||-||-|||-|----|||-||||--||--|-
+query          1618 GGATTT-CAGGCACTCT--CAGAAGG-CTGC-ACGCCCTA---TGATATTAA-TCA--AA
+
+target          894 TGCT-AAACACA--GTG-GGG-GGA-CATC-AAGCAGCC-ATGCAAATGTTAA--A-AGA
+               1800 ||||-||-------|||-|||-|-|-||-|-|||||||--||||||||---||--|-|||
+query          1667 TGCTTAA-----TTGTGTGGGCG-ATCA-CCAAGCAGC-TATGCAAAT---AATCAGAGA
+
+target          943 GACC--ATC-AATGA-GGAAGCT-GCAGAA-TGGGATA--G-AGTGCATCCAGTGCA-TG
+               1860 ||----||--|||||-|-||||--|||||--||||||---|-||--||-||----||-|-
+query          1716 GA--TTAT-TAATGAAG-AAGC-AGCAGA-CTGGGAT-TCGCAG--CA-CC----CAAT-
+
+target          993 -C-AGGGCC--TATTGCACCAGGCCAG-AT--G---AGAGAACC-AAG-GGGAAGT--GA
+               1920 -|-|||-||--|-|---|||||-|-||-|---|---|||||-||-|||-|||---|--||
+query          1761 ACCAGG-CCCCT-T---ACCAG-C-AGGA-CAGCTCAGAGA-CCCAAGAGGG---TCTGA
+
+target         1039 CATAGCAGGAACTA-CTA-GT-ACCC--TTCAG--GAACA-AAT--AG-G-ATGG-AT-G
+               1980 ||||||||||||-|-|-|-|--||----|--||--|||||-|-|--||-|-|||--||-|
+query          1809 CATAGCAGGAAC-AAC-AAG-CAC--AGT--AGATGAACAGA-TCCAGTGGATG-TATAG
+
+target         1085 ---ACAAATAATCCACC-TATCCCAG-TAGGAGAA-AT-TTAT-A-AAAGATGGAT--AA
+               2040 ---|||||-|-|||-|--||-||--|-||||-|||-||-|-|--|-||-|||||||--||
+query          1860 GCCACAAA-A-TCC-C-GTA-CC--GGTAGG-GAACATCT-A-CAGAA-GATGGATCCAA
+
+target         1134 -TCCT-GGGA-TT--AAATAAAA-TAGT---AAGAAT-GTAT-AG-CCCTA-CC-AG-CA
+               2100 -|----|||--|---|||-|----|-||---|-|||--|||--|--|||-|-|--|--||
+query          1909 AT---AGGG-CT-GCAAA-A---GT-GTGTCA-GAA-AGTA-CA-ACCC-AAC-TA-ACA
+
+target         1179 TTCT--GGACATAAGA-CAAGG-ACCAAA-GGAACCC-TTT--AGAGA-CTATGTAGACC
+               2160 |-||--|-||||||-|-||-||-||||||-|-||||--||---|-|-|-||||||||||-
+query          1952 T-CTTAG-ACATAA-AACA-GGGACCAAAAG-AACC-GTT-CCA-A-AGCTATGTAGAC-
+
+target         1230 -GGTTCTAT-AAAA-CTCTAAGAGCCG--AG--CAA---G-CTTCACAGG-AGGTAAAAA
+               2220 -|||||||--||||-||-|--|||--|--||--|||---|-|--|-|||--||-||||||
+query          2002 AGGTTCTA-CAAAAGCT-T--GAG--GGCAGAACAAACAGAC--C-CAG-CAG-TAAAAA
+
+target         1278 ATTGGATGAC--AGAAAC-CTTG-T--TGGT-CCA-AAATGCG-AACCCAGA-TTGT-AA
+               2280 ||||||||||--|-||-|-||-|-|--|----|-|-||-|||--||||||||-|-|--||
+query          2051 ATTGGATGACCCA-AA-CGCT-GCTAAT---AC-AGAA-TGC-CAACCCAGACT-G-CAA
+
+target         1327 G--AC-TA-TTTTAAAAGC-A-TTGGG-ACCA-G---CGGCTACAC--TAGAAGAAATGA
+               2340 |--|--||-|---|||||--|-|-|||-|----|---|--|--|||--|||||||---||
+query          2100 GTTA-GTACT---AAAAG-GACT-GGGGA---TGAATC--C--CACCCTAGAAGA---GA
+
+target         1374 TGAC-A---GCA-TGTC-AGGGAG-TAGGA-GGACCC-GGCCAT-AA-GGC-AAGAG-T-
+               2400 ||-|-|---||--||-|-||||-|-||||--|||||--|||||--||-|-|-|-|-|-|-
+query          2144 TG-CTAACCGC-CTG-CCAGGG-GGTAGG-CGGACC-AGGCCA-GAAAG-CCA-G-GCTA
+
+target         1420 -TTTGGCTGAAGCAATGAGCCAAGTAACAA-A---T-T----C-A-GC--TA-CC-ATAA
+               2460 -|--|||||||||------||---|||-||-|---|-|----|-|-||--||-||-||--
+query          2194 AT--GGCTGAAGC------CC---TAA-AAGAGGCTATGGGACCAAGCCCTATCCCAT--
+
+target         1464 TGATGCAG-AGAGGC--AATTTTAGGAACCAAAGAAAG--A-TTGTTAAGTGT-TTC--A
+               2520 |--|||||-||---|--||---------|-||||||||--|-||---|-|-||-||---|
+query          2240 T--TGCAGCAG---CCCAA---------C-AAAGAAAGGCAATT---A-G-GTATT-GGA
+
+target         1515 A-TTGTGGCAAAG-AAGGGCACACA--G-CCA-GA-AA-TTGC--AGGGC-CCCTAGGAA
+               2580 |-|-||||-||||-|-|||-||||---|-|-|-||-|--|-||--||--|-||-|||-||
+query          2279 ACT-GTGG-AAAGGA-GGG-ACAC-TCGGC-AAGACA-GT-GCCGAG--CACC-TAG-AA
+
+target         1564 -A-AAGGGCTG-TTGGAAA-TGTGG-AAAGG--AAGGACAC--CAAATG--AAAGA-TTG
+               2640 -|-|-||||||-|-||||--|||||-||-|---|-||||||--||--||--|||---|-|
+query          2327 GACA-GGGCTGCT-GGAA-GTGTGGCAA-G-CCA-GGACACATCA--TGGCAAA--CT-G
+
+target         1612 TACT--GAGA--GACAGGCTAA--TTTTTTAGGGAAGATCTGG-CCTTCCTACAAGGG-A
+               2700 --|---|-||--|||||||-|---||||||||||----|-|||-||--|--||--|||-|
+query          2376 --C-CCG-GAAAGACAGGC-A-GGTTTTTTAGGG----T-TGGGCC--C--AC--GGGGA
+
+target         1664 A-G--GCCA--GGG-AATTTTCTTCA---GA-G-C--AGA-CC----AGAG--C-----C
+               2760 |-|--|||---|---||----||||----|--|-|--|-|-||----||-|--|-----|
+query          2419 AAGAAGCC-TCG--CAA----CTTC-CCCG-TGACCCA-AGCCCCTCAG-GGGCTGATAC
+
+target         1699 -AACAGC-CC-CAC--CAGA---AG-AGA-G---CT-TC---AG-G-TC-T--G--G---
+               2820 -||||||-||-|-|--||||---||-||--|---||-|----||-|-|--|--|--|---
+query          2468 CAACAGCACCTC-CGGCAGATCCAGCAG-CGGAACTGT-TGGAGAGAT-ATATGCAGCAA
+
+target         1732 GGT-AGA--G-A-------CA-A--------C-A-AC-------T--C------C---C-
+               2880 ||--|||--|-|-------||-|--------|-|-||-------|--|------|---|-
+query          2524 GG-GAGAAAGCAGAGGGAGCAGAGGGAGAGACCATACAAAGAGGTGACGGAGGACTTGCT
+
+target         1751 -C-C-TCAGAAGCAG-GAG---C-C------GAT-AG-A--CA-AGGAACT-G-T--ATC
+               2940 -|-|-||-||-||||-|||---|-|------||--||-|--||-||||-||-|-|--|-|
+query          2583 GCACCTC-GA-GCAGAGAGAGACACCTCACAGA-GAGGAGACAGAGGA-CTTGCTGCA-C
+
+target         1788 CTTT-AACTTCCCTCAGGTCACTCTTTGGCAAC--GACCCC--TC-GTCACAA---TA-A
+               3000 ||---||-|||--||---||--|-||-||-||---||||----|--||||||----||-|
+query          2638 CT--CAA-TTC--TC---TC--T-TT-GG-AA-AAGACC--AGT-AGTCACA-GCGTACA
+
+target         1838 ---AG-AT-AGGGGGGCAAC--TAAAGGAAGCTCT-A-TTAGAT-ACAGGAG-CA-GATG
+               3060 ---||-||-||-----|--|--||--|-|||-|||-|-|-|||--|||||-|-|--||||
+query          2680 TCGAGGATCAG-----C--CGGTA--G-AAG-TCTTACT-AGA-CACAGG-GGC-TGATG
+
+target         1886 A-TACAG-TA-TTAG-AAG-AAATGAG--TTTGCCAGG--A-AGATGG-A-AAC-C-AAA
+               3120 |-|-||--||-|-||-|-|-||-|-||--||----|||--|-|-||---|-|-|-|-|||
+query          2725 ACT-CA-ATAGT-AGCA-GGAA-T-AGAATT----AGGGGACA-AT--TACA-CTCCAAA
+
+target         1932 AATGA-TAGGGGGAATT-GGAGG--TTTTAT---CA--AA-GTAAG-ACAGTA---TGAT
+               3180 |||-|-||||||||||--||-||--|||-||---||--||-|-||--|||--|---||-|
+query          2771 AAT-AGTAGGGGGAAT-AGG-GGGATTT-ATAAACACCAAAG-AA-TACA--AAAATG-T
+
+target         1978 CAGATACTCATAGAAATCTGTGGAC-A--TAAA-GCTA-TA-G-GT--AC-AGTATTAGT
+               3240 -|||-|---|||-|||---||--||-|--||||-|--|-||-|-|---||-|-||--|-|
+query          2822 -AGA-A---ATA-AAA---GT--ACTAAATAAAAG--AGTAAGAG-CCACCA-TA--A-T
+
+target         2028 -A--GGACC--TACACCTGTCAA-CATA-AT-T--GG-AAGAAATC-TGT-TGACTCAGA
+               3300 -|--|||----|||-||---|||-||-|-||-|--||-|-|||||--|-|-||||--||-
+query          2864 GACAGGA--GATAC-CC---CAATCA-ACATCTTTGGCA-GAAAT-AT-TCTGAC--AG-
+
+target         2075 --TT-GG--TTG-CACTTTAAATTTT-CCCA-TTAGCCCTATTGAGACT-GTA-CCAG-T
+               3360 --||-||--|-|-||-||-||||||--||-|-||-|||--|---|||-|-|-|-|||--|
+query          2911 CCTTAGGCAT-GTCA-TT-AAATTT-ACC-AGTT-GCC--A---AGA-TAG-AGCCA-AT
+
+target         2124 AAAA-TTAA-A--G---CCAGG-AAT-GGATGG-CCCAAAAG--TT-AAACAATGGCCA-
+               3420 ||||-|-||-|--|---|||||-||--|-||||-||-||--|--|--|||||||||||--
+query          2957 AAAAGT-AACATTGAAGCCAGGGAA-AG-ATGGACC-AA--GGCT-GAAACAATGGCC-C
+
+target         2170 -TTGA-CAGAA-GA-AAAAATA-AAAGCA-TTAGTAGAA-A--T-TTGT-ACAGAGA--T
+               3480 -|--|-||-||-||-||||-||-||-|||-|-|--|-||-|--|-|-||-|-|-|-|--|
+query          3009 CT--AACA-AAAGAGAAAA-TAGAA-GCACT-A--A-AAGAGATCT-GTGA-A-A-AAAT
+
+target         2217 GGAAAA-GGAAGGG--AAAATTT-C-A-AA-AATTGGGC-C-TG--AA--AATCC--ATA
+               3540 ||||||-|-|-|||--|-------|-|-||-|---||-|-|-|---||--|||||--|||
+query          3056 GGAAAAAG-A-GGGCCA------GCTAGAAGA---GG-CACCT-CCAACTAATCCTTATA
+
+target         2262 CAATACTCC--AGT-ATTTGCCA-T-AAAGAAAAAAG-ACA-GTA-CTAAATGGAG-AAA
+               3600 -|-|||-||--|---||||||-|-|-||-||||||-|-|||-|-|-|-||||||||-|--
+query          3103 -A-TAC-CCCCA--CATTTGC-AATTAA-GAAAAA-GGACAAG-AAC-AAATGGAGGA--
+
+target         2313 AT--TAG-TAGATTTC-AGAGAACTTAA-TAAGAG--AACTCAAGACTTCTGGG-A-AG-
+               3660 -|--|-|-|||||||--||||||||-||-||||-|--|-|||||||-||-|----|-||-
+query          3151 -TGCT-GATAGATTT-TAGAGAACT-AAATAAG-GTGA-CTCAAGA-TT-T---CACAGA
+
+target         2363 --TTCAA--TTAGGAATA-CCACATCCCG-CAGGG--TTA---AAAAAGAAAA--AATCA
+               3720 --||||---|-||||||--|||||-||||-||||---|-|---||||||||||--|-||-
+query          3200 AATTCA-GCT-AGGAAT-TCCACA-CCCGGCAGG-ACT-AGCCAAAAAGAAAAGGA-TC-
+
+target         2410 GTAAC-AGTACT--GGATGT-GGGTGATGCA-TATTTTTC-AGTT-CC-CTTAG-ATGAA
+               3780 -|--|-|-||-|--|-||||-|||-|||||--||||||||-|-|--||-||-|--|||||
+query          3252 -T--CTA-TA-TTAG-ATGTAGGG-GATGC-CTATTTTTCCA-T-ACCACT-A-CATGAA
+
+target         2461 GACTTC--AGG-AAGTATACTGCATTTACCA-TACCTAGT-A-TAAACAATGA-G-ACAC
+               3840 ||-||---|||-|-||||||||||||||||--||||-||--|-||||||||-|-|-|-||
+query          3300 GA-TT-TTAGGCA-GTATACTGCATTTACC-CTACC-AG-CAGTAAACAAT-ATGGA-AC
+
+target         2513 CAGG-----GAT-TAGATATCAGTACAATGTGCTT-CCACA-GGGATGGAAAGG-ATCAC
+               3900 ||||-----|||-||--|||-|-||-||-||-|||-|||||-||-||||||-||-|||||
+query          3352 CAGGAAAAAGATATA--TAT-A-TA-AA-GT-CTTGCCACAAGG-ATGGAA-GGGATCAC
+
+target         2564 CAGCAATATT--CCAAAGTAGCA---TGA--CAAAAA-TCTTAGAG-CCTTTT-AGAAAA
+               3960 |||||||-||--|-||--||-||---|||--|||----|||||||--|||||--||||||
+query          3403 CAGCAAT-TTTTC-AA--TA-CACAATGAGGCAA---GTCTTAGA-ACCTTT-CAGAAAA
+
+target         2614 -CAAAATCC-AGACATAGTT-AT-CT-ATC-AA-TACATGGATGAT-T-TGTA-T-G-TA
+               4020 -||||--||-|||--|-||--||-||-|||-|--||||||||||||-|-|-||-|-|-||
+query          3453 GCAAA--CCCAGA--T-GT-CATTCTCATCCA-GTACATGGATGATATCT-TAATAGCTA
+
+target         2662 GGATCTGACTTAG-A-AA--T--AGGGCAGCATAGAACAAAAA-TAGAG----G-AGCTG
+               4080 |--|--|||--||-|-|---|--||---|||||-||-||||---|-|-|----|-||||-
+query          3505 G--T--GAC--AGGACA-GGTTTAG---AGCAT-GA-CAAA--GT-G-GTCCTGCAGCT-
+
+target         2710 AGACAAC-AT-CTGT-TGA---GG--T-GGGGACTTA--CC-ACA-CCAGAC--A-AAAA
+               4140 |-|-||--|--||-|-|-|---||--|-|||---||---|--||--|||||---|-||--
+query          3548 A-A-AA-GA-ACT-TCT-AAATGGCCTAGGG---TT-TTC-TAC-TCCAGA-TGAGAA--
+
+target         2754 ACA-T-C-AGAAA-GAACC-TCCATT-CC--TTTGGATGGG-T-TATGAACTCCAT--CC
+               4200 ----|-|-|-|||-||-||-||||||-|---|--|||||||-|-|--|||||--||--||
+query          3593 ---GTTCCA-AAAAGA-CCCTCCATTTC-AAT--GGATGGGCTGT--GAACT--ATGGCC
+
+target         2802 TGA--TAAATGGACAG-TA-CAG---CCTAT-AGTG-CTGCC--AGAAAAAGACAGCT--
+               4260 --|--||||||||-||-|--|||---|-||--|----|||||--|||||--||||--|--
+query          3641 --AACTAAATGGA-AGCT-GCAGAAAC-TA-CA---ACTGCCCCAGAAA--GACA--TAT
+
+target         2849 GGACT-GTCAATGACATAC-AGAA-G-TTAGTGGGGAAA-T-TG-AA-TTGGGCAAGT-C
+               4320 ||||--|||||||||||-|-|-||-|-|-||||||-|---|-|--||-||||||--|--|
+query          3688 GGAC-AGTCAATGACAT-CCA-AAAGCT-AGTGGG-A--GTCT-TAAATTGGGC--G-GC
+
+target         2900 AG-A--T-TTA--CCCAGGGA-TTAAAGTAAGGC-AA----TTATGTA-AACTCC--TTA
+               4380 |--|--|-|-|--|--|||-|-|-|||--||--|-||----|||||||-|-||----|||
+query          3737 A-CAAATCT-ATTC--AGG-AAT-AAA--AA--CCAAACACTTATGTAGA-CT--AATTA
+
+target         2945 GAGGAACCAAA-G-CACT-AACAGAAGTAA-TA-CCAC-T--AACAGAA---G-A-A-GC
+               4440 ||||||--|||-|-||||-|-||||||-||-|--|-|--|--|-|||||---|-|-|-||
+query          3784 GAGGAA--AAATGACACTCA-CAGAAG-AAGT-GC-A-GTGGA-CAGAACTAGCAGAAGC
+
+target         2991 AGAGCTAGAACTGGCAGAAAACAGAGAGATT--CT--A---AAAG-AACCA-GTACATGG
+               4500 ||||||||||--|--|-|||-||-|-|-|||--||--|---|--|-|||-|-|-|-|-||
+query          3836 AGAGCTAGAA--G--A-AAA-CA-A-A-ATTATCTTGAGCCA--GGAAC-AAG-A-A-GG
+
+target         3042 AGTGTATTATG-ACCCATCA-AA-A----GAC-TTA-ATAG-CAGA-AATAC-AGAAGCA
+               4560 |-|--|||||--|||-|--|-||-|----||--|||-|--|-||-|-|||-|-|-||--|
+query          3881 A-T--ATTAT-TACC-A--AGAAGAAAAAGA-ATTAGA--GGCA-ACAAT-CCA-AA--A
+
+target         3090 --GGGGC-AAGG-C--CAATGGACATATCAAATTTAT-CA--AGAGCCATTTA-A-AAA-
+               4620 --|---|-||||-|--|||||||||||-||||---||-||--||-|--|---|-|-|||-
+query          3926 AAG---CCAAGGACATCAATGGACATA-CAAA---ATACACCAG-G--A---AGAGAAAA
+
+target         3138 TC-TGAAAAC--AGGAAAA-TATGCAA-GAATGAGGGG-----TG-CCCAC-ACT-AATG
+               4680 ||-|-||||---||||||--|||||||-||-|-|---------|--||||--||--||||
+query          3973 TCCT-AAAA-GTAGGAAA-GTATGCAAAGA-T-A----AAAAAT-ACCCA-TAC-CAATG
+
+target         3185 ATG--TAAAACA-ATTAAC-AG-AGGCAG-T-G--CA-AAAAATA--ACCACA-GAAAG-
+               4740 --|--|----||-||||-|-||-|--|||-|-|--||-||||-||--|--|-|-||--|-
+query          4021 --GGGT----CAGATTA-CTAGCA--CAGGTAGTTCAGAAAA-TAGGA--A-AAGA--GG
+
+target         3231 CA-TAGT-AATAT-GGGGAAA-G-ACT-CCTAAA-TTT-AAAC-TGCCCA-T--AC-A-A
+               4800 ||-||||-|-|-|-|||||---|-|-|-||-|||-|||-|--|-||||-|-|--|--|-|
+query          4066 CACTAGTCA-T-TTGGGGA--CGGA-TACC-AAAATTTCA--CCTGCC-AGTGGA-GAGA
+
+target         3277 -AAGGAAACA-TGGGAAA-CA-TGGTGG-AC-AGAG-TA-TTGGCAAGCC--ACC-TGGA
+               4860 -|-|-|--|--|||||---||-||||||-|--|-|--||-|-||||||----||--||||
+query          4116 GA-G-A--C-CTGGGA--GCAGTGGTGGGA-TA-A-CTACT-GGCAAG--TGAC-ATGGA
+
+target         3326 TTCCT--GAGTGGGAG-TTTGTTAAT--ACCCCT-CC-CT--T-AGTG--AA-ATTATGG
+               4920 |-||---||||||||--|||||-|-|--|||||--||-||--|-||-|--||-|||-|--
+query          4162 T-CC-CAGAGTGGGA-CTTTGT-A-TCTACCCC-ACCACTGGTCAG-GTTAACATT-T--
+
+target         3373 TA-CC-AGTTAGAGAAAGAA-CCCATAGTA---GGA-GCAGA-AACCTTCTATGT-A--G
+               4980 -|-||-|||-||-||--||--||--||-||---||--|||||-|-|||||||----|--|
+query          4212 -AACCTAGT-AG-GA--GA-TCC--TA-TACCAGG-CGCAGAGA-CCTTCTA---CACAG
+
+target         3422 ATGGGG--CA-GCTAAC-AGGGAGAC--T-AAATTAG-G--AAAAGCAGGATATGTTA-C
+               5040 ||||----||-||-||--||--|--|--|-|||--||-|--|||||||||||||||-|-|
+query          4258 ATGG--ATCATGC-AA-TAG--A--CAGTCAAA--AGAGGGAAAAGCAGGATATGT-AAC
+
+target         3471 TA-ATAGAGGAA--GACAAA--AA--GT-TGTCA---CCCTAA-CTGACACAACAAATCA
+               5100 -|-|||||||||--||||||--||--||-|-|-|---|---||-||-||-|||----|||
+query          4307 -AGATAGAGGAAAAGACAAAGTAAAAGTAT-T-AGAAC---AAACT-AC-CAA----TCA
+
+target         3519 G-AAGACTG-AG--TTAC-AAG-CAATTT---AT--CTAGCTTTG-CAGGA-TTC-GGG-
+               5160 |-|-|---|-||--|||--|||-|--|||---||--|-|-||--|-|||-|-|-|-||--
+query          4355 GCA-G---GCAGAATTA-GAAGTC--TTTCGGATGGC-A-CT--GGCAG-ACT-CAGG-C
+
+target         3564 --ATTAGAAG-T-AA-A-CATAGTAACAGACT-CACAA-TATGCATTA--GG--AATCA-
+               5220 --|--|-|-|-|-||-|-|||||||---||-|-||||--||||--|-|--||--|-|-|-
+query          4401 CCA--A-A-GGTTAATATCATAGTA---GA-TTCACA-GTATG--T-AATGGGGA-T-AG
+
+target         3611 TT--CAAG-C-A-C-AACCAGA-TCA-AAGTGAATCAGAG-TTAGTC-AATC-A-AAT-A
+               5280 |---||-|-|-|-|-|||-|||-|||-||---|||-|||--|-|||--||-|-|-|-|-|
+query          4447 T-AGCA-GGCCAGCCAAC-AGAGTCAGAA---AAT-AGA-AT-AGT-GAA-CCAGA-TCA
+
+target         3658 ATAGAGCAGTTAA-T-A-AAA-AAGGAA--AAGGTCTATC-T-GGCATGGGTACC-AGCA
+               5340 -||||--||--||-|-|-|||-||||||--|-|-|||||--|-|-|||||||-||-|||-
+query          4495 -TAGA--AG--AAATGATAAAGAAGGAAGCA-G-TCTAT-GTTG-CATGGGT-CCCAGC-
+
+target         3709 CACA-AA-GG-AATT-GGAGGAAATGAAC-A--A-GTAGAT--AAATT-AGTCA-GTGCT
+               5400 |-||-||-||-|-|--||||||||----|-|--|-|||||---|--||-|||-|-||-|-
+query          4544 C-CATAAAGGCA-T-AGGAGGAAA----CCAGGAAGTAGA-CCA--TTTAGT-AAGT-C-
+
+target         3757 --GG-AATCAGGA-AAGTACT-ATT--TTTAGATGGAATA-GATA-AGGCCC----AAGA
+               5460 --||-|-||||-|-|||||-|-|||--|---|--|-||-|-||||-||-|||----||||
+query          4591 AAGGCA-TCAG-ACAAGTA-TTATTCCT---G--G-AA-AAGATAGAG-CCCGCTCAAGA
+
+target         3804 TG-AACATGAGAAA-TATCAC-AGT-AATTGGAG-AGCAAT-GG--CTAG-----TGA--
+               5520 -|-|||||||-|||-|||||--||--|-||--|--|--||--|---|||------|-|--
+query          4640 -GGAACATGA-AAAATATCA-TAG-CA-TT--A-TA--AA-AG-AACTA-ACCCAT-AAA
+
+target         3849 TTTT--AACCTG-CCACCTGT--AGTAGCAA-A-AGAAATAGTAG--C-CAGCTGTG---
+               5580 |||---||--|--||-|||-|--||||||||-|-|||--|||||---|-||--||||---
+query          4686 TTT-GGAA--T-ACC-CCT-TCTAGTAGCAAGACAGA--TAGTA-AACTCA--TGTGCCC
+
+target         3896 ATAAATGTC-AG-CTA-AAAGGAGAAGCCATG-CATGGA-CAAGTAGACTGTAGT-CCAG
+               5640 |-|--||-|-|--|-|-||||||||||||||--|||||--||||||-|----|-|-|-||
+query          4735 A-A--TG-CCA-AC-AGAAAGGAGAAGCCAT-ACATGG-GCAAGTA-A----A-TGC-AG
+
+target         3950 GAA-TA----T--GGCAACTA-G-A-TTGTACACA---TTTAGAAGGAAAAGTTATCC-T
+               5700 -||-||----|--|||||--|-|-|-|---|||||---||-||||||||||---|||--|
+query          4780 -AAATAGGCGTTTGGCAA--ATGGACT---ACACACACTT-AGAAGGAAAA---ATC-AT
+
+target         3996 ----GGTAGCAGTT-CATGTA-GCCA-GTGGATAT-ATAGAAGCAGAAGTT-ATTCC-AG
+               5760 ----|-|||||||--|||||--||-|-||||||-|-||||||||||||||--||-||-|-
+query          4829 TATAG-TAGCAGT-ACATGT-TGC-AAGTGGAT-TCATAGAAGCAGAAGT-CAT-CCCA-
+
+target         4046 CAG-AAA-CAGG--G-CAGGAAACAGCA-TA-TTTTC-T-TTTAAAA-TTAG-C-AGG-A
+               5820 |||-||--||||--|-|||-|--|||||-|--||--|-|-||-||||-|--|-|-||--|
+query          4881 CAGGAA-TCAGGAAGGCAG-A--CAGCACT-CTT--CCTATT-AAAACT--GGCCAG-TA
+
+target         4093 AGA-TGGCCAG-TAAAAAC--AA-T---ACATACT-GACAATGGCAGC--AA-TTTCACC
+               5880 -|--||||||--|||---|--|--|---|||--|--|||||||||--|--||-||-|||-
+query          4930 -G-GTGGCCA-ATAA---CGCA-CTTGCACA--C-AGACAATGGC--CCCAACTT-CAC-
+
+target         4141 GGTGCT-AC-GGTTA-G-G--GCCGCC-TG-TTGG--TGG-GCGG--G--AATCAAGCAG
+               5940 --|--|-||-||--|-|-|--|------||-|-||--|||-|-||--|--|-|-|-|-|-
+query          4976 --T--TCACAGG--AAGTGAAG-----ATGGT-GGCATGGTG-GGTAGGTA-T-A-G-A-
+
+target         4186 GA-A-T--TT-GGAA-TT-CCCT-ACAATCCC-CAAAGTC-AAGG-AGTAGTAGAAT-CT
+               6000 -|-|-|--||-|||--|--||-|-||||-|||-|||||-|-|-||-||||||||||--|-
+query          5018 -ACAATCCTTTGGA-GT-ACC-TTACAA-CCCACAAAG-CCA-GGGAGTAGTAGAA-GC-
+
+target         4234 A-TGAAT-A--AAGAA--TTAAAGAA--A-ATTA--TAGGACAGGT-AAGAGAT-CAGGC
+               6060 |-|||||-|--|------|-||||||--|-||-|--|||-|-|--|-|-||||--|||||
+query          5069 AATGAATCACCA----CCT-AAAGAATCAGAT-AAGTAG-A-A--TTA-GAGA-ACAGGC
+
+target         4281 TGAACAT-CTTAA--GACAG-CA---GTAC--AAATGGCAGT--ATT-CATCC-ACAATT
+               6120 --||-||-|--||--||-|--||---||||--|--|||||||--|||-|||---|-|-||
+query          5117 --AA-ATAC--AATAGA-A-ACAATAGTACTGA--TGGCAGTTCATTGCAT--GA-A-TT
+
+target         4328 TTAAAAGAAAAGGGG-GGA-TT-GGGGGG-TA---C---AGTGCAGGGGAAAGAA-TAG-
+               6180 |||||||||--||||-|||-|--||||---||---|---||--|||---|||||--||--
+query          5164 TTAAAAGAA--GGGGAGGAAT-AGGGG--ATATGACCCCAG--CAG---AAAGA-CTA-A
+
+target         4376 T-AGACAT-AAT-AGC-AACAGA-CATAC-AAACTA-AAGAATTAC----AAA-AACAAA
+               6240 |-|-||||-|-|-|-|-|-||||-||-|--|||-||-||---||-|----|||-||-|||
+query          5212 TCA-ACATGA-TTA-CCA-CAGAACA-A-GAAA-TACAA---TT-CCTCCAAAGAA-AAA
+
+target         4424 -TTACAAAAATTC--AAAA-TTTTC--GGGT-TTATTACAG-GGACAG-CAGA-AATCCA
+               6300 -||-||||--||---||||-|||-|--||-|-|-|||||||-|-|-||-||||-|-||-|
+query          5260 ATT-CAAA--TT-TTAAAAATTT-CCAGG-TCT-ATTACAGAG-A-AGGCAGAGA-TC-A
+
+target         4474 -CT-TTGGAAAGGACCA-GC---AAAGCT-CCTC-TGGAAAGGTGA-A-GG-GGCAGT-A
+               6360 -||-|-||||||||||--|----||--||-|-|--|||||-||-||-|-||-|-||||-|
+query          5309 GCTGT-GGAAAGGACC-TG-GTGAA--CTAC-T-GTGGAA-GG-GAGAAGGAG-CAGTCA
+
+target         4522 GTAA-TACAAGA-TA---AT-AGTGACATAAAAGTAGTG-CCAAGAAG-AAAAG-C-AAA
+               6420 -||--|-||||--||---|--||--|||||||||||||--||||||||-||--|-|-||-
+query          5359 -TA-GT-CAAG-GTAGGGA-CAG--ACATAAAAGTAGT-ACCAAGAAGGAA--GGCCAA-
+
+target         4572 GATC-ATT-AGGGA-TTATGGA--AA-ACAG-A--TGGCAGGTGATGATT-GTG------
+               6480 |||--||--|||||-|-|||||--||-||||-|--|||-|--|-|-|-|--||-------
+query          5408 GAT-TAT-CAGGGACT-ATGGAGGAAGACAGGAACTGG-A--T-A-G-T-AGT-CCCCAC
+
+target         4616 -TGGCAAG--TAGAC-AGGATGAGGATT--AGAACATGG-AAAA-G---TT-T-A-GTA-
+               6540 -|||-|-|--|-|-|-|||--||||||---||||-||||-|----|---||-|-|-|||-
+query          5457 CTGG-A-GGGT-G-CCAGG--GAGGAT-GGAGAA-ATGGCA---TGCCCTTGTCAAGTAC
+
+target         4661 ---AAAC-ACCATATGTATGTTT-CAGGGAAAG-C-TAG-GGGATGGTTTTATAGACAT-
+               6600 ---|||--||-|---|-|------||---||||-|-|||-||-|-|||------|-|---
+query          5506 CTGAAA-TAC-A---G-A-----ACA---AAAGACCTAGAGG-A-GGT------G-C--G
+
+target         4712 CACTATGAAAG--CCCTCATCCA-A-G-----AAT----AA-G-T----T--CAG-AAG-
+               6660 |--||||------|||-||-|||-|-|-----|-|----|--|-|----|--|||-|-|-
+query          5541 C--TATG----TTCCC-CA-CCACAAGGTGGGA-TGGGCA-TGGTGGACTTGCAGCA-GG
+
+target         4749 -TACAC-AT-CCCACTA---GG-----GG--ATGCTAGATTGGTAATAACAA--CATATT
+               6720 -||-|--||-|||||||---||-----|---||-|||||-----||||-||---||||||
+query          5590 GTA-A-TATTCCCACTACAAGGAAAAAG-TCAT-CTAGA-----AATA-CA-GGCATATT
+
+target         4794 GGGGT--CTGCATA-CAGG--AGAAAGA-G-ACTGGCAT-T--TGGG-TCA-GGG-AGTC
+               6780 ||-----|--|-||-||----|||||-|-|-|-||||-|-|--|----|||-|---|||-
+query          5639 GG---AAC--C-TAACA--CCAGAAA-AAGGA-TGGC-TCTCCT---CTCATG--CAGT-
+
+target         4841 TCCATAGA--A---TGG-AGG-A-A-AAAGAGATATAGC---ACAC-AA-GT-AGACCCT
+               6840 ---|-|||--|---|||-|---|-|-|||-||-|-|--|---|||--|--||-|--|||-
+query          5682 ---A-AGATTAACCTGGTA--TACAGAAA-AG-T-T--CTGGACA-GA-TGTTA--CCC-
+
+target         4886 --GAACTAG--CAGACCAA-C-TAATT-CAT--C--TGTATTA-CT-TTGACTGTTTTTC
+               6900 --||-||-|--|||||-|--|-||||--|||--|--|-||||--||-|||-||-||----
+query          5726 CAGA-CT-GTGCAGAC-A-TCCTAAT-ACATAGCACT-TATT-TCTCTTG-CT-TT----
+
+target         4933 AGACTCTG-C---T-A--TAAGAA-AGGCCTTATT-AG-G---ACACATAGTTA--G-CC
+               6960 |--|---|-|---|-|--||||||-||-||--||--||-|---|-|-|-|||||--|-||
+query          5773 A--C---GGCAGGTGAAGTAAGAAGAG-CC--AT-CAGAGGGGA-A-A-AGTTATTGTCC
+
+target         4977 CTAGG-TGTG-AA-TATC---AAGCAGGA-CATAA--CA-AGGTAGG--ATCT-CTA-CA
+               7020 -|-|--||---||-||||---||||-----|||||--||-|||||----|||--||--||
+query          5821 -T-G-CTG--CAACTATCCCCAAGC----TCATAAAGCACAGGTA--CCATC-ACT-TCA
+
+target         5023 ATAC-TT-GGCAC-TAGC-AGCATTAA-TAACA-CCAAAAAA-GAT-AAAGCCACCTTTG
+               7080 ||||-|--|-|-|-|||--||--|-|--||-||-|-||||---||--|--|--|||----
+query          5868 ATACCT-AG-C-CCTAG-TAG--T-A-GTA-CAAC-AAAA--TGA-CA--G--ACC----
+
+target         5075 CCTAGTGTTACGAAACTG---ACA-G--AGGATAGA---TGGA-ACA-AG-CCCCA--G-
+               7140 ||-||----|-||||--|---||--|--||||-|-|---||||-|-|-||-||--|--|-
+query          5907 CC-AG----A-GAAA--GGGTAC-CGCCAGGA-A-ACAGTGGAGA-AGAGACC--ATTGG
+
+target         5120 AAGACCAAGGGCCA--CAGAG-GG--AGCCACACAATGAATGGACAC-TAGA-GC-TTTT
+               7200 |-||----||-||---|-|||-||--||--|------||--||||-|-||||-||-||--
+query          5953 A-GA----GG-CC-TTC-GAGTGGCTAG--A------GA--GGAC-CATAGAAGCCTT--
+
+target         5172 AGA---GG-AG-CTTAAGAATGAAGC--TG-TT------AGA-C--ATTTTCCTAGGAT-
+               7260 |-|---||-||-|--|-|--||||-|--|--|-------|||-|--|||||||-|||-|-
+query          5992 A-AACAGGGAGGC--A-G--TGAA-CCAT-CT-GCCCCGAGAGCTCATTTTCC-AGG-TG
+
+target         5214 TTGGC-----TCCATGGCTTAGGGCAACATAT---C-T-ATGAAACTTAT-GGGGATACT
+               7320 |-|||-----|||-|||---||---|---|||---|-|-|||||-|--|--|||-||---
+query          6041 T-GGCAAAGGTCC-TGG---AG---A---TATTGGCATGATGAA-C--A-AGGG-AT---
+
+target         5263 TGGG-CAGG-A-G-TGGA-AGCCATAA-TA-AGA-ATTCTG--C--AA--CAACT---GC
+               7380 -|---|||--|-|-|--|-|-|-|-||-||-|||-|||-||--|--||--|||-----||
+query          6082 -G--TCAG-CAAGCT--ACA-C-A-AAGTATAGATATT-TGTGCCTAATGCAA--AAAGC
+
+target         5306 TG-T-TTAT-C-CATTTTCA-GA-ATTGGGTGTCGACATA-GC-------AG-A-ATAGG
+               7440 |--|-||-|-|-|||||-||-||-|--|||||-|-||-|--||-------||-|-||-||
+query          6130 T-ATATT-TACACATTT-CAAGAGA--GGGTG-C-AC-T-TGCTGGGGGGAGGACAT-GG
+
+target         5350 CGTTACTCG--ACAGAGGA--GAGCAAGA--AATGGAGCC------------------AG
+               7500 -|---|-||--|-||-|-|--|-|-||||--||-|||-||------------------||
+query          6180 -G---C-CGGGA-AG-G-ATTG-G-AAGACCAA-GGA-CCTCCCCCTCCTCCCCCTCCAG
+
+target         5386 -T--AGATCCTA--GACTAGA-GC-CCTGGAAGCA---T--CC---AGGAAG-T----C-
+               7560 -|--||-||-||--||||-||-||-||---||-||---|--||---||-|||-|----|-
+query          6228 GTCTAG-TC-TAATGACT-GAAGCACC---AA-CAGAGTTTCCCCCAG-AAGATGGGACC
+
+target         5425 --A-G------CCT-A---A---AACTGC--T--T-GTACCAA-TTGCT-ATTG-----T
+               7620 --|-|------|-|-|---|---|-|||---|--|-|-|--||-|--||-|--|-----|
+query          6280 CCACGGAGGGAC-TTAGGGAGTGA-CTG-GGTAATAG-A--AACT--CTGA--GGGAAAT
+
+target         5457 AAA--AAGT--G--TT--G-C-TTTCATTG--CCAA--G-TTTGTTTCATAACAAAA--G
+               7680 |||--|||---|--||--|-|-|||--|-|--||----|-||-|---|-|||-------|
+query          6330 AAAGGAAG-AAGCCTTAAGACATTT--T-GATCC--CCGCTT-G---C-TAA-----TTG
+
+target         5500 C-CTTAGGCAT-CT----CC-TA-T-GG-CA-GGAAGA-AGC----GGAGACAG-CGAC-
+               7740 |-|||-|||-|-||----||-||-|-|--||-|||-||-|-|----|-|-|--|-||-|-
+query          6374 CTCTT-GGC-TACTATATCCATAATAG-ACATGGA-GACA-CCCTTG-A-A--GGCG-CC
+
+target         5542 -GAAGAGCTCATC-AGAACAGTCAGACTCAT-CAA-G--C--TTCT-C-T--A-T-CA-A
+               7800 -||-||||||||--|-||-|--|---|-|-|-|||-|--|--|-||-|-|--|-|-||-|
+query          6424 AGA-GAGCTCAT-TA-AA-A--C---C-C-TACAACGAGCCCT-CTTCGTGCACTTCAGA
+
+target         5587 AGC---A-GTAA--G-T-A-GTACAT-G--TAATG-CAA---------C-C-TATA-CC-
+               7860 -||---|-||||--|-|-|-|-|-||-|--|||---|||---------|-|-|-|--||-
+query          6472 -GCGGGATGTAACCGCTCAAG-A-ATTGGCTAA--ACAAGGAGAAGAACTCCT-T-GCCC
+
+target         5621 AATAG-TAGCA---A----TAGTAGC-ATTAGTAGTAGCAA-TAAT-AATA-GCAATAGT
+               7920 |---|-|-|||---|----|||-|||-||--|------||--|||--||-|-||--||-|
+query          6525 A---GCT-GCACCGACCCCTAG-AGCCAT--G------CA-CTAA-CAA-ATGC--TA-T
+
+target         5669 TGT--G---TG--GT--CCATAGTAAT-C-A--TAGAATATAGGAAAATATTAAGACAAA
+               7980 |||--|---||--||--||||--|----|-|--|-|--|---|-----|-||----|---
+query          6566 TGTAAGCGATGCAGTTTCCAT--T---GCCAGCT-G--T---G-----T-TT----C---
+
+target         5716 --GAAAAATAGACAGG--TT---AATTGATAGAC-TAAT-AG--AAAGAG-CAGAA-GAC
+               8040 --||||||--|---||--|----|||--||---|-||-|-||--||||-|-||||--||-
+query          6602 TCGAAAAA--G---GGGCT-CGGAAT--AT---CATA-TGAGCGAAAG-GGCAGA-CGA-
+
+target         5763 AGTGGCAATGAGAG-TG--AAGGAGAAA-TATCAGCACT--T--G--T---GG-A---GA
+               8100 ||----||-|-||--|---|||||-|||-||--||-|||--|--|--|---|--|---||
+query          6647 AG----AA-G-GA-CT-CCAAGGA-AAACTA--AG-ACTCCTTCGCCTTCTG-CACCAGA
+
+target         5806 ----TG-GGGGT--GGAGA--TGG--GGCACCAT--GCTCC-TTGGGATGTTGATG-AT-
+               8160 ----||-|---|--||||---|||--||-|--||--|||---||----|||||-|--||-
+query          6694 CAAGTGAG---TATGGAG-CCTGGTAGG-A--ATCAGCT--GTT----TGTTG-T-CATT
+
+target         5850 ---CT-----GTAG-T-GCT-ACAG-A-AAAATTGT-G---G---GTC-ACA-GTCTATT
+               8220 ---||-----||-|-|-|||-|--|-|-|---||||-|---|---||--||--||-|-||
+query          6739 TTACTAACAAGT-GCTTGCTTA--GTATA---TTGTAGCCAGTATGT-GAC-TGT-T-TT
+
+target         5888 --ATGGGG--TACCT-GT-GTGGAAGGAA--GCAA-CC-A--CCACTCTATTTTGTGCAT
+               8280 --||||----||||--|--||||||--||--|||--|--|--||-||-|||||||||||-
+query          6789 CTATGG--CATACC-CG-CGTGGAA--AAATGCA-TC-TATTCC-CT-TATTTTGTGCA-
+
+target         5936 CAGATGCTAAAGCATATGATACAGAGGTACA-TAATGTTTGGG--CCAC-ACA-TGCCTG
+               8340 -|----|||||--|-||-|----|||--|||-|--||---|||--|||--|||-|||-|-
+query          6838 -A----CTAAA--A-AT-A----GAG--ACACT--TG---GGGGACCA-TACAGTGC-T-
+
+target         5991 TGTACCCACAGACCCCAACCC--ACAA-GA--AGT-AG----TA-TTGGT-AAATGTGAC
+               8400 ||--||-|--|||---||-----|----||--|-|-||----||-||--|-|||||||||
+query          6875 TG--CC-A--GAC---AA---TGA---TGATTA-TCAGGAAATAATT--TTAAATGTGAC
+
+target         6039 AGAAAA---TTTT-AA--CATGTGGAA-AAATGACATGGT-A--GAACAGATGCA-T-GA
+               8460 |||------||||-|---||||-|-||-||-|-|||-|-|-|--|||||-|-|||-|-||
+query          6918 AGA---GGCTTTTGA-TGCATG-G-AATAA-T-ACA-G-TGACAGAACA-A-GCAGTAGA
+
+target         6087 -GGATA-T-----AATC-AGTTT-ATGGGA--TCAAAGCCTAAAG-CCATGTGT-AAAA-
+               8520 -|-||--|-----|-||-|-|||-|-|--|--||||----||||--||||||||-||---
+query          6966 AG-AT-GTCTGGCA-TCTA-TTTGA-G--ACATCAA----TAAA-ACCATGTGTCAA--G
+
+target         6133 -TTAACCCCAC-TCTG-TGTTAGTTTAAAGTGCAC-TGA-TT-T-G-AAG-----AATG-
+               8580 -|-|||---||-|||--|||--||-----|-|||--|||-||-|-|-|-|-----||-|-
+query          7012 CT-AAC---ACCTCT-ATGT--GT-----G-GCA-ATGAATTGTAGCA-GGGTTCAA-GG
+
+target         6179 -A-TACT-A--ATACC---AAT---AGTAGTAGC---GGGAGAATGAT--A-A---T-GG
+               8640 -|-|||--|--|--||---|||---||--|-|-|---|--||--|--|--|-|---|-|-
+query          7056 GAATAC-CACGA--CCCCGAATCCCAG--G-A-CCTCG--AG--T--TCCACAACCTCG-
+
+target         6218 AGA--A---AGG-A---G-AG-----ATAA-AAAACTG---CTCTTTC-AA-T--ATCAG
+               8700 |||--|---|---|---|-||-----||||-|||--||---||-|--|-||-|--||-||
+query          7102 AGACCACCCA--CATCCGCAGCCTCCATAATAAA--TGAAACT-T--CTAACTGCAT-AG
+
+target         6255 CACAAG-CATA-A---G---AGG-T-AAGG-T--GCAG-AAAGAAT-ATGCA-T-T---T
+               8760 -|-||--||-|-|---|---|||-|-|-||-|--|-||-|--||-|-|||||-|-|---|
+query          7154 -A-AA-ACA-ACACATGCGCAGGATTA-GGGTATG-AGGA--GA-TGATGCAATGTGAGT
+
+target         6295 T---T-TT-A-----T-A-AAC----TT--GA--------TATAAT--AC-CA----AT-
+               8820 |---|-|--|-----|-|-|||----|---||--------|||||---||-||----||-
+query          7205 TCAATAT-GAAGGGGTTAGAACAAGAT-AAGAAAAGGAGGTATAA-GGACACATGGTATT
+
+target         6321 -AGATA-ATGAT--------ACTA-C-CA---GCT---AT-AA-GTTGACA--AG---TT
+               8880 -|||-|-|||-|--------||-|-|-||---|||---|--|--|||-|||--||---||
+query          7262 TAGA-AGATG-TGGTTTGTGAC-AACACAACAGCTGGCA-CA-TGTT-ACATGAGACATT
+
+target         6356 GT-AACACC-TCAG-TCATTACACA-G-G-CC-TGTCC-A-AAGGT-ATCCT-TTG--A-
+               8940 |--|||||--|||--||||--||-|-|-|-|--|||---|-|||---|-|-|-|||--|-
+query          7316 G-CAACAC-ATCA-ATCAT--CA-AAGAGTC-ATGT--GATAAG--CA-C-TATTGGGAT
+
+target         6402 GCC-A--A--TTCCCATAC-ATTA-TTGTGC-CC-C-GG-CTGGTTTTGCG---ATTCTA
+               9000 ||--|--|--||----||--||-|-|-||||-||-|-||-||--||--||----|||--|
+query          7363 GC-TATGAGGTT----TA-GAT-ACT-GTGCACCACCGGGCT--TT--GC-CCTATT--A
+
+target         6448 A-AATGTAAT-AATA--AGACGT-T-CAATGGAACA---GGA-CCAT--GT--AC-AAA-
+               9060 |-|-||||||-|-||--|-||-|-|-||--||--|----|-|-||-|--||--||-|||-
+query          7408 AGA-TGTAATGA-TACCA-AC-TATTCA--GG--C-TTTG-AACC-TAAGTGCACTAAAG
+
+target         6492 T-GTCAGCACA-G-TA-CAATGTACACAT-GGAATT-A-GGCCAGTAGTATC--AA-CT-
+               9120 |-||-|||----|-|--||-||--||||--|||-|--|-||--|--|--|-|--||-||-
+query          7457 TAGT-AGC---TGCT-TCA-TG--CACA-AGGA-T-GATGG--A--A--A-CGCAAACTT
+
+target         6541 C-AACT-GC-T--G--TT-AAATGGCAGTCTAGCAG-AAGAAGAGG-TAGTAA--T-TAG
+               9180 |-|-||-|--|--|--||-||-|||||--||||-||-|-|||-|---|||-||--|-||-
+query          7499 CTA-CTTG-GTTTGGCTTTAA-TGGCA--CTAG-AGCA-GAA-A--ATAG-AACATATA-
+
+target         6588 ATCTGTCAATTTCACGGACAATG-CTA-A-AACCATAATAG---TA-CA---GCTG-AAC
+               9240 -|||---|-||----||-||-||-|-|-|-|----||||||---||-||---|||--||-
+query          7547 -TCT---A-TT----GG-CA-TGGC-AGAGA----TAATAGGACTATCATTAGCT-TAA-
+
+target         6637 ACA--TC-TGTAG-AAAT-T-A-A-T---T-GTACA-AGACCCA--ACAACAATACAAGA
+               9300 |||--|--|-||--||-|-|-|-|-|---|-|||-|-|||||-|--|-||---||-|-||
+query          7589 ACAAGT-AT-TA-TAA-TCTCACAATGCGTTGTA-AGAGACC-AGGA-AA---TA-A-GA
+
+target         6682 -AAAAGAATCCGTAT--CCAGAG-AGGAC-C--A-GGG--AGAGCATT--TGTTA-CAA-
+               9360 -|---|--|---|-|--|||-|--|--||-|--|-|----||-|-|||--||||--||--
+query          7637 CA---G--T---T-TTACCA-A-TA--ACACTTATG--TCAG-G-ATTAGTGTT-TCA-C
+
+target         6728 T---AGG--AA--AA-AT-A-GGAAA--TATGAGACAAG-CACATTG-TAA-CA---TT-
+               9420 |---||---||--||-|--|-||-----||-|-|-||-|-||--|-|-|---|----||-
+query          7678 TCTCAG-CCAATCAACA-CAAGG---CCTA-G-G-CA-GGCA--T-GGT--GC-CGGTTT
+
+target         6769 --AGT--AGA-GC-A---AA---ATG--G-AA--T-AA-CA--C--TT-TA-AA-A-C--
+               9480 --||---|||-|--|---||---|||--|-|---|-||-||--|--||-||-||-|-|--
+query          7723 GGAG-GCAGATG-GAGGGAAGCCATGCAGGA-GGTGAAGCAAACCCTTGTACAACATCCC
+
+target         6800 AGATAGCTAGCAAATTAAGAGAA-CAATTTGGAAATA-AT---AAAACAAT-AATCTTTA
+               9540 |||||-|-|--||-----|-|||-||||--|-|--||-|----||||---|-||-|||||
+query          7780 AGATA-C-A--AA-----G-GAATCAAT--G-A--TACA-GGGAAAA---TTAA-CTTTA
+
+target         6854 AGC-AAT-CCTCAGG-AG--GG----GACCCAG-AAATTGTAACG-CACAGTTTTAATTG
+               9600 --|-||--||---||-||--||----|||||-|-||---||---|-||---|||-|-|-|
+query          7820 --CGAA-ACC---GGGAGCAGGCTCAGACCC-GGAA---GT---GGCA---TTT-A-T-G
+
+target         6903 TGGA------G--G-GGA-A-TTT-TTCTACTGTAATTCAACACAACTGTTTAATAGTAC
+               9660 ||||------|--|-|||-|-|||-|-|||||||||--||-------||---|------|
+query          7861 TGGACTAACTGCAGAGGAGAATTTCT-CTACTGTAA--CA-------TG---A------C
+
+target         6951 TTGGTT--T-AATAGTACTTGGAGTACTGAAGGGT-CAA-ATAACACTGAAGGA-A-GTG
+               9720 ||||||--|-|||--|----||-|||--||||----|||-|-|-|-|--||--|-|-|-|
+query          7902 TTGGTTCCTCAAT--T----GG-GTA--GAAG---ACAAGA-A-C-C--AA--ACACG-G
+
+target         7004 ACA-CAATC-ACCCT--CCCATGCAGAATAAAA-CA-A-A-TTA-TAAACA-TGTGGCAG
+               9780 -|--|||-|-|---|--||-||--|---||||--||-|-|-|||-||--|--||-|-||-
+query          7942 -C-GCAA-CTA---TTGCC-AT--A---TAAA-GCAGATAATTAATA--C-CTG-G-CA-
+
+target         7054 -AAAGTAGG-AAAAGCAATGTAT----GCCCCTCCCATCAGTGGACA----AA-TTAGA-
+               9840 -||||||||-||||--|-|||||----|||--|||--|-||-|||-|----|--||-|--
+query          7983 TAAAGTAGGGAAAA--A-TGTATATTTGCC--TCC--T-AG-GGA-AGGGGA-GTT-G-G
+
+target         7102 --TGTTC-A-TCAA-A-TATTAC-AGGGC-T----GCTA---TT-AACA-AGAG-A----
+               9900 --|||---|-||||-|-||--||-||--|-|----||||---||-|-||-|||--|----
+query          8030 CCTGT--GAATCAACAGTA--ACCAG--CATAATTGCTAACATTGA-CATAGA-TAAAAA
+
+target         7140 T-GG--TGGT-AATAGC-AACAATGAGT-CCGAGATCTTCAGACCTGG-AGGA-G-G--A
+               9960 |-||--|----|-||-|-||||-|---|-||----|-||-||---||--||-|-|-|--|
+query          8082 TCGGACT---CA-TA-CCAACA-T---TACC----T-TT-AG---TG-CAG-AAGTGGCA
+
+target         7189 GATA-TG-A--GGGACAATTGGAGAAG-TG--A-A-TTAT-ATAAATATAAAGTAGTAAA
+              10020 ||-|-||-|--|--|---||--||||--||--|-|-|-|--|-||-|-|||--|||-|||
+query          8122 GA-ACTGTACCG--A---TT--AGAA-CTGGGAGACT-A-CA-AA-T-TAA--TAG-AAA
+
+target         7239 AATTGAAC-C-A-TTAGGAG-TA--GCACCC-ACCAAGG--CAAAGAGAAGAGTGG--TG
+              10080 --|--|||-|-|-||-||---|---|||||--||-|-|---||--||||||-||----|-
+query          8165 --T--AACACCAATT-GG--CT-TCGCACC-TAC-A-G-ATCA--GAGAAG-GT--ACT-
+
+target         7288 C---AGA-----G--AG-AA-AAAAGAGCAGTG-G---GAAT---AGGAGCTTTGTTCCT
+              10140 |---|-|-----|--||-||-|||||||--|||-|---|--|---|||-|-||----|-|
+query          8207 CCTCA-ACTCCAGTGAGGAACAAAAGAG--GTGTGTTCG--TGCTAGG-G-TT----C-T
+
+target         7329 TGGGTTCTT---G-GGAGCAGCAGGAA----GCACTATGGGCGCAGCC--TCAA--TGAC
+              10200 ||||||-||---|-|-|-|||||||------|||--||||||||-||---||----||||
+query          8255 TGGGTT-TTCTCGCG-A-CAGCAGG--TTCTGCA--ATGGGCGC-GC-GGTC--CCTGAC
+
+target         7377 GCTGACGGTACAGGCC-AGA-C----AA-TT-A-TTGT-CT-GGT-ATAGTGCAGCAG-C
+              10260 ||||----|-|||-||-||--|----|--||-|-|-|--|--||--|||||||||||--|
+query          8304 GCTG----T-CAG-CCCAG-TCCCGGA-CTTTACT-G-GC-CGG-GATAGTGCAGCA-AC
+
+target         7424 AG-AACAATTTGCTGA--GGG-C-TA-TT---GAGG-CGCAACA-GCA--TCTGTTGC-A
+              10320 ||-||||----||||---||--|-||-|----|||--|--||||-|-|--|--|||||-|
+query          8351 AGCAACA----GCTG-TTGG-ACGTAGT-CAAGAG-AC--AACAAG-AAAT--GTTGCGA
+
+target         7470 ACTC-ACA-GTCTGGGGCAT-C-AAGCAG--C-TCCAGGCAAGAA-TC-CTGGCTG-T-G
+              10380 -||--||--||||||||-|--|-||--|---|-|||||||||||--||-|||-||--|-|
+query          8398 -CT-GAC-CGTCTGGGG-A-ACGAA--A-AACCTCCAGGCAAGA-GTCACTG-CT-ATCG
+
+target         7519 -GAAAGATACCTAAAGG-ATCA---ACAGCT-----CC-TGGGGATTTGGGGTTGC-TCT
+              10440 -|||-|-|||||||||--||||---||||||-----|--|||||||--|---|-||-|-|
+query          8447 AGAA-G-TACCTAAAG-CATCAGGCACAGCTAAATTC-ATGGGGAT--G---T-GCGT-T
+
+target         7567 --GGAAAAC---TCATTTGC-ACCACTG-CTGTG-CC-TTGG--AA-TG-CTAG-TTGGA
+              10500 --|-|---|---||-|--||-||-|||--||||--||-|-||--||-||-||---||---
+query          8496 TAG-A---CAGGTC-T--GCCAC-ACT-ACTGT-ACCGT-GGGTAAATGACT--CTT---
+
+target         7613 GTAATAAATCT-C-TGGAACAGATTTGGAATCACAC----GACC-TGG-ATGGAGTGGGA
+              10560 -||-|----|--|-||-|-|---|--||||--|-|-----|||--|||-|-|||||||||
+query          8540 -TA-T----C-GCCTG-A-C---T--GGAA--A-A-ATATGAC-ATGGCA-GGAGTGGGA
+
+target         7665 CAGAGAAATTAACAA-T----TACAC-A-AG-CTTAA-TA-CAC-TCCTTAA--TT--GA
+              10620 --||-||-----|||-|----|||-|-|-||-|--||-||-||--||---||--||--||
+query          8580 --GA-AA-----CAAGTCCGCTAC-CTAGAGGC--AAATATCA-GTC---AAAGTTTAGA
+
+target         7710 AGAATCGC--AAAA--CCAG-CAAGAAAAGAATGAACAA-GAATTATTGGAATTAG-A--
+              10680 ||||--||--|||---|-|--||||||||||||-|-----|--|-||-|-|||||--|--
+query          8625 AGAA--GCCCAAA-TTC-A-ACAAGAAAAGAAT-A----TG--T-AT-G-AATTA-CAAA
+
+target         7761 --T-AAAT-G--GGC-A-AGTT-TGTGG-AA-TTGGTTT-AACAT-AACAAA-TTGGC-T
+              10740 --|-||||-|--||--|-|-||-|-|||-||-|-|||||-|-|-|-|||----|---|-|
+query          8669 AATTAAATAGCTGG-GATA-TTCT-TGGCAACT-GGTTTGA-C-TTAAC---CT---CCT
+
+target         7806 GTGGT-ATA-TAAAATTATTCA-TA---A-TG-ATAGTAGG-AGGCTTGG---TA---GG
+              10800 |-|||-|-|-||---|-|||||-||---|-||-|||-|||--||--|-||---||---|-
+query          8717 G-GGTCA-AGTA---T-ATTCAATATGGAGTGCATA-TAG-TAG--T-GGGAATAATAG-
+
+target         7851 -TTTAAGAATAG---T-T-TTTGCT-GTA-C--TT-TCTATAGTGAATAGAGTT-AGGCA
+              10860 -|||||||||||---|-|-|--|-|-||--|--||-|-||-|||-|---||-||-||--|
+query          8765 CTTTAAGAATAGCAATCTAT--G-TAGT-GCAATTGT-TA-AGT-A---GA-TTTAG--A
+
+target         7899 --GGGA-TATTCA--CCAT-TAT--CGT-TTCAGACCCACC----T---C-CCAAC----
+              10920 --|||--|||--|--||-|-|-|--|-|-|||---|||-||----|---|-|||||----
+query          8812 AAGGG-CTAT--AGGCC-TGT-TTTC-TCTTC---CCC-CCCCGGTTATCTCCAACAGAT
+
+target         7938 CC----C-----G-A--GGGGAC--CCGACAGGCC--CGAAGGAAT-AGAAGAAGAA-GG
+              10980 ||----|-----|-|--||||||--||-|--|-||--||||||||--|||||||||--|-
+query          8862 CCATATCCACAAGGACCGGGGACAGCC-A--G-CCAACGAAGGAA-CAGAAGAAGA-CG-
+
+target         7980 T-GGAGAGA-GAGACAGA-GACAGATCCATT-CGA-TTAGTGAACGGATCCTTGGC-A--
+              11040 |-||||-|--||--|||--|---|-|---|--|||-||-|||---|---|||||||-|--
+query          8915 TCGGAG-G-CGA--CAG-TG---G-T---T-ACGACTT-GTG---G---CCTTGGCCAAT
+
+target         8032 ---CTTATC-TGGGACGA-T-C-TG--CGG-AGCCT---G--T-GCCTCTTC-A--G--C
+              11100 ---||-||--||---|-|-|-|-||--|---|-|||---|--|-|||||||--|--|--|
+query          8955 AAACT-AT-GTG---C-AGTTCCTGATC--CA-CCTACTGACTCGCCTCTT-GATCGGGC
+
+target         8071 TA--C--CA-CCGCTTG-AGAGACTTACTCTTGATT----GTAAC-----GA---G--GA
+              11160 ||--|--||-|---|-|-|||||||||||----||-----|-|||-----||---|--||
+query          9005 TATACAACATC---T-GCAGAGACTTACT----AT-CCAAG-AACTCCCCGACCCGCCGA
+
+target         8111 -TTGTGGAACTTCT----G-GG---A-C-GCA----GGG---GG-TGGGAAG-CCCTCAA
+              11220 -|-|---|--|-||----|-|----|-|-|||----|||---||-||--|-|-|--|---
+query          9055 CT-G---A--T-CTCCCAGAG-TCTAACAGCAATCAGGGACTGGCTG--A-GAC--T---
+
+target         8151 ATATT-GGT-GG---AATCT-CCTACAGTATTGGAGT-C-AG-G-AACT--AAAGAATAG
+              11280 -||---||--||---||-||-|--|-|-|||-||-||-|-||-|-|--|--||-|||--|
+query          9099 -TA--AGG-CGGCCCAA-CTGC--A-A-TAT-GG-GTGCGAGTGGA--TCCAA-GAA--G
+
+target         8199 TGCTGTT--A-GC-TT-GCTC-AATGCC-AC-AGCC-ATAGCAGTAG-CT---GA-GGG-
+              11340 --||-||--|-||-||-||---|--|---||-|-|--|--|-||-||-||---|--|||-
+query          9143 --CT-TTCCAAGCATTCGC--GA--G--GACTA-C-GA--G-AG-AGACTCTTG-CGGGC
+
+target         8244 GACAGATAGGG--T--TATA-G--AAGT-AGTACAAG-GA-GC-TT-GTAG-AGC-----
+              11400 |-|-|-|-|||--|--|-||-|--|||--||--|--|-||-||-|--|--|-||------
+query          9187 G-C-G-T-GGGGATGGT-TATGGGAAG-CAG--C--GCGACGCAT-CG--GGAG-GGGAA
+
+target         8286 TA-TTCGCCACA-TA-CCTA-GAAGAAT-AAGA-CAGGGCTT-GG-AAAGGA--TTTT-G
+              11460 ||-|-|||-|---|--||-|-|||||||-|-|--|||||----|--|--|-|--|----|
+query          9233 TACT-CGC-A--GT-TCC-AAGAAGAATCA-G-GCAGGG---AG-CA--G-AACT---CG
+
+target         8335 C--TA--TAAGATG-GGTG---GCAAGTGG-TCAAAAAGT-AGTGTGATTGGATGGCCTA
+              11520 |--|---|--|-||-||-|---|||-||---|||----|--||-|-||--|-|-|---||
+query          9275 CCCT-CCT--G-TGAGG-GACAGCA-GT--ATCA----G-CAG-G-GA--G-A-G---TA
+
+target         8385 C-TGTAA--G-----GGA-AA-----G-AAT--GA--GAC-GA--GC-T--G-AGCC-AG
+              11580 |-||-||--|-----|||-||-----|-||---||--|||-||--|--|--|-|----||
+query          9313 CATG-AACAGCCCATGGAGAAACCCAGCAA-CAGAAAGACAGAAAG-ATTTGTA---TAG
+
+target         8418 -CAGCAGA--TA-GGG-TGGGA-GC-AGCATCTC-GA-GACCTG--GAAAAAC--A-T-G
+              11640 -|||||-|--||-||--||--|-|--||-||-||-||-||--||--||----|--|-|-|
+query          9367 GCAGCA-AAATATGG-ATG--ATG-TAG-AT-TCTGATGA--TGATGA----CCTAATAG
+
+target         8463 GAG--CAA-T----CAC-AAGTAGCAATAC-AGC--AGCTACC-AA-TG-CTGCT-TG--
+              11700 |||--|---|----|||-|||-||---|||-|-|--||--|---||-||-|--||-|---
+query          9414 GAGTTC--CTGTTACACCAAG-AG---TACCA-CGGAG--A--GAAATGAC--CTAT-AA
+
+target         8506 -TGCCTGGC--TAGA-A-G-CACA----A-----GA----GGAGG-A--GG-A-GG--TG
+              11760 -|---||||--||||-|-|-||||----|-----||----||-||-|--|--|-||--||
+query          9460 AT---TGGCAATAGATATGTCACATTTTATAAAAGAAAAAGG-GGGACTG-CAAGGGATG
+
+target         8540 GGTTTT-CCAGTCAC--A-----CC-TCAGGTA--CCTTTAAGACCA-ATGAC-TTAC-A
+              11820 --||||-|-|||-|---|-----|--|-||--|--|||--|-|||-|-||-||-|-|--|
+query          9515 --TTTTAC-AGT-A-GGAGGAGAC-AT-AG--AATCCT--A-GAC-ATAT-ACCT-A-GA
+
+target         8586 A---G-GC-A-GCTG--TAGAT-C----TTAG-CCAC---TT-T--T--T-----A--A-
+              11880 |---|-|--|-|--|--||-||-|----||-|-|-|----||-|--|--|-----|--|-
+query          9559 AAAAGAG-GAAG--GGATA-ATACCAGATT-GGC-A-GAATTATACTCATGGGCCAGGAG
+
+target         8616 -AAG--A---AA---A----GGG-GGGACTG-G-AAGGGCTA--ATTCA------CTC-C
+              11940 -|||--|---||---|----|||-||--|||-|-|||--|||--||-||------|||-|
+query          9612 TAAGGTACCCAATGTACTTCGGGTGG--CTGTGGAAG--CTAGTAT-CAGTAGAACTCTC
+
+target         8651 -CAA-AG--A-AG-ACAAGAT-AT--CCTTGAT-CTG-TGG-A-T-CTACC-A-CACA--
+              12000 -|||-||--|-||-|-|-|||-|---||---|--|||-|---|-|-|-|||-|-||||--
+query          9667 ACAAGAGGCAGAGGA-A-GATGA-GGCC---A-ACTGCT--TAGTAC-ACCCAGCACAAA
+
+target         8693 CAAG--G-C-T-ACTTCCCTGATT-AGCA-G---A-AC-T-A------CAC-----AC-C
+              12060 ||||--|-|-|-|-|-----|||--||||-|---|-||-|-|------||------||-|
+query          9717 CAAGCAGACATGA-T-----GAT-GAGCATGGGGAGACATTAGTGTGGCA-GTTTGACTC
+
+target         8728 -A-G--GGCC-AGGGGTCAGA-TATCCA---C-TG--AC-CT-TT-----G--GA-T--G
+              12120 -|-|--||||-|----|-|-|-||-|-|---|-|---||-||-|------|--||-|--|
+query          9769 CATGCTGGCCTA----T-A-ACTA-C-AAGGCCT-TCACTCTGT-ACCCAGAAGAGTTTG
+
+target         8764 GTGCTACAAGCT-AGT-A---CCAGTTGAGCCA--GA-T--AAG--A----T-A--G-AA
+              12180 |-||-|||||-|-||--|---||||---||--|--||-|--|||--|----|-|--|-||
+query          9819 G-GC-ACAAG-TCAG-GATTGCCAG---AG--AAAGAATGGAAGGCAAAACTGAAAGCAA
+
+target         8804 GAGG----CCA-ATAAAG-GAGA-----G-AACA-CCAG--CTTG-T------------T
+              12240 ||||----|||-|||--|-||-|-----|-||||-|||---||||-|------------|
+query          9870 GAGGGATACCATATA--GTGA-ATAACAGGAACAACCA-TACTTGGTCAAGGCAGGAAGT
+
+target         8836 A-C-AC-------C--CTGTGAG-CCTGCATGGGA-T-----GGA------TG-A-CCC-
+              12300 |-|-||-------|--|||--||-|-||||-||||-|-----|-|------||-|-||--
+query          9926 AGCTACTAAGAAACAGCTG--AGGC-TGCA-GGGACTTTCCAG-AAGGGGCTGTAACC-A
+
+target         8869 -GGAGAGAG-A-AGTGTT--AG-AG-TGGA-GG---------T--T--TG-AC---A---
+              12360 -||-|||-|-|-|-||----||-||-|||--||---------|--|--|--||---|---
+query          9980 AGG-GAG-GGACA-TG--GGAGGAGCTGG-TGGGGAACGCCCTCATACT-TACTGTATAA
+
+target         8901 --G--CC-GC--CTA-GCATT-TCAT-CACGT-GGC-C--CG-AGAG-CTG-CA--TC--
+              12420 --|--||-||--||--|||||-|-||-||-||-|-|-|--||-||||-|||-||--||--
+query         10033 ATGTACCCGCTTCT-TGCATTGT-ATTCA-GTCG-CTCTGCGGAGAGGCTGGCAGATCGA
+
+target         8940 -C---G-GAG-TA-CT-TC-AAG-AACT-GCTGACA--TC-GAGCTTGCTACAAGGGACT
+              12480 -|---|-|||-|--||-||-|-|-|-||-||--|----|--||||---||----|||--|
+query         10089 GCCCTGAGAGGT-TCTCTCCA-GCA-CTAGC--A--GGT-AGAGC---CT----GGG--T
+
+target         8986 -TTCC--GCTGGGGACT-TTC-C-AGGG-AGGCGT-GGCCTGGG--C-GGG-A--CTGGG
+              12540 -||||--|||||--|||-|-|-|-||---|--|-|-||||-||---|-|||-|--|-||-
+query         10132 GTTCCCTGCTGG--ACTCT-CACCAG--TA--C-TTGGCC-GG-TACTGGGCAGAC-GG-
+
+target         9032 G----A-G-T-GGC--G---A--G-CC-CT-CAGAT----CCTGC-A-TATA-A-GCA-G
+              12600 -----|-|-|-|-|--|---|--|-||-||-||-||----|-|||-|-|-||-|-|||-|
+query         10180 -CTCCACGCTTG-CTTGCTTAAAGACCTCTTCA-ATAAAGC-TGCCAGT-TAGAAGCAAG
+
+target         9066 CT---G--------C---T-T-T--T--T-GCC---TG-TAC-T--GG-GTCTC-TCTG-
+              12660 -|---|--------|---|-|-|--|--|-|||---||-|-|-|--||-||-||-||||-
+query         10235 -TTAAGTGTGTGTTCCCATCTCTCCTAGTCGCCGCCTGGT-CATTCGGTGT-TCATCTGA
+
+target         9095 GTTAGACCA-GATC--TGAG-CCTG---GGAGCTC-T-CT-GGCTAACTA-GGGAA-CCC
+              12720 ||-|-||-|-||-|--||-|-|-||---|||-|-|-|-||-|-||---|--|||||-||-
+query         10292 GT-A-AC-AAGA-CCCTG-GTC-TGTTAGGA-C-CCTTCTCG-CT---T-TGGGAATCC-
+
+target         9143 ACT-G-CTTAAGCCTC-AATAAAGCTTGCC-TTGAGTGCTTC-  9181
+              12780 |---|-|--|-|-----||-||---|--||-|--||--|---- 12823
+query         10338 A--AGGC--A-G----GAA-AA---T--CCCT--AG--C---A 10359
